@@ -1,0 +1,7 @@
+C:\Users\CCA022\source\repos\playCheckers2\bin\Debug\playCheckers2.exe.config
+C:\Users\CCA022\source\repos\playCheckers2\bin\Debug\playCheckers2.exe
+C:\Users\CCA022\source\repos\playCheckers2\bin\Debug\playCheckers2.pdb
+C:\Users\CCA022\source\repos\playCheckers2\obj\Debug\playCheckers2.csprojAssemblyReference.cache
+C:\Users\CCA022\source\repos\playCheckers2\obj\Debug\playCheckers2.csproj.CoreCompileInputs.cache
+C:\Users\CCA022\source\repos\playCheckers2\obj\Debug\playCheckers2.exe
+C:\Users\CCA022\source\repos\playCheckers2\obj\Debug\playCheckers2.pdb
